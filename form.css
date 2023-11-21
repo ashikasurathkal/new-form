@@ -1,0 +1,41 @@
+#hiii{
+    position: relative;
+    background-color: rgb(217, 236, 160);
+    padding:10%;
+    max-width: max-content;
+    top: 50px;
+    left:200px;
+}
+
+#inp1{
+position: relative;
+left: 50px;
+}
+#inp2{
+    position: relative;
+    left: 50px;
+    }
+#inp3{
+     position: relative;
+     left: 29px;
+ }
+#inp4{
+    position: relative;
+   left: 19px;
+ }
+
+ #ok{
+    position: relative;
+    left: 90px;
+    top: 40px;
+    border: 1px solid rgb(222, 233, 64);
+    background-color:moccasin ;
+    border-radius: 4px;
+    padding: 5px;
+ }
+ #display{
+    position: relative;
+    left: 90px;
+    top: 40px;
+   
+ }
